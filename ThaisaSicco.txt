@@ -2,14 +2,10 @@ Olá, eu sou a Thaisa.
 Tenho 32 anos e sou de Sumaré, uma cidade do interior de SP.
 
 Sumaré? Vixe, perto hein
-<<<<<<< HEAD
 Colado em Campinas.. haha
 
 Qual sua banda favorita?
 Acho que não tenho uma favorita, gosto muito de várias. 
 Mas vou colocar uma que tenho ouvido bastante: Imagine Dragons.
-=======
-Qual sua banda favorita?
 
 Torce para qual time?
->>>>>>> fa0dc68100c9969faed2244a3ec43abe7693d6bd
