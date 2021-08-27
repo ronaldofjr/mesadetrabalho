@@ -1,14 +1,11 @@
 Ronaldo Fonseca Junior
 
 Tenho 41 anos e moro em Campinas.
-<<<<<<< HEAD
 
 
 Torce para a Ponte ou para o Guarani?
 
 
 Você mora em qual bairro de Campinas?
-=======
 Torce para a Ponte ou para o Guarani?
 Aqui eh Palmeiras
->>>>>>> fa0dc68100c9969faed2244a3ec43abe7693d6bd
